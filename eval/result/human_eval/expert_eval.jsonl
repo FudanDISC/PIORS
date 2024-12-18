@@ -1,0 +1,300 @@
+{"id": 7020741, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7199417, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7146806, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7193954, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Low", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7226917, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7252620, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7230464, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6888673, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6843143, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7225276, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7143246, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7111386, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7264584, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7254632, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7181035, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6732699, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7201576, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7145114, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6833118, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6847695, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7196864, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6902892, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6833305, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 6815690, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6817495, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7197906, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7256146, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6769731, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7215345, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7213772, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Moderate"}
+{"id": 7090822, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6851325, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7045524, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7267509, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7128836, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7174028, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7277356, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7251636, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7239635, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7225046, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7196864, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 6902892, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6833305, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6815690, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 6817495, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7197906, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7256146, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6769731, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7215345, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7213772, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7090822, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6851325, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7045524, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7267509, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7128836, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7174028, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7277356, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7251636, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7239635, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7225046, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7216476, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7010274, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6778863, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6768139, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7182446, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "Low"}
+{"id": 7106229, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6888786, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7285089, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7247405, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7014387, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6979191, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7085732, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7227000, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7250141, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7242166, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 6734550, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7003353, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7122121, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6781626, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6972182, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7259901, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7188560, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 6821220, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7191871, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7284940, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Moderate"}
+{"id": 7059007, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7229808, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6769756, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7041922, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7131218, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7260060, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7163866, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7226332, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7262454, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7145232, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7276725, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7260263, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7252912, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Moderate"}
+{"id": 6797313, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7274446, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7216476, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7010274, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6778863, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6768139, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7182446, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Low"}
+{"id": 7106229, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 6888786, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7285089, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7247405, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7014387, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Moderate"}
+{"id": 6979191, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7085732, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Low", "patient_baseline": "High"}
+{"id": 7227000, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7250141, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7242166, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6734550, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7003353, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7122121, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6781626, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Low", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6972182, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Moderate"}
+{"id": 7196864, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6902892, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 6833305, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 6815690, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Low", "patient_baseline": "High"}
+{"id": 6817495, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7197906, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7256146, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6769731, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7215345, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7213772, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7090822, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6851325, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7045524, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7267509, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7128836, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7174028, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7277356, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7251636, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7239635, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7225046, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7196864, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6902892, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Low", "patient_baseline": "Low"}
+{"id": 6833305, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Low"}
+{"id": 6815690, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6817495, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7197906, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7256146, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6769731, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7215345, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7213772, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7090822, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6851325, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7045524, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7267509, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7128836, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7174028, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Low", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7277356, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7251636, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7239635, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7225046, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7230155, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7139976, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 6836718, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Low", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7248553, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Low", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7202253, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7151432, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7155265, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7034448, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6757837, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6826539, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6935301, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 6974102, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Low", "patient_4o": "Low", "patient_baseline": "Moderate"}
+{"id": 7222014, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Low"}
+{"id": 6855742, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7218188, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Low"}
+{"id": 7279153, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6893349, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Low", "patient_baseline": "Low"}
+{"id": 6968342, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7275588, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7243341, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7230155, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7139976, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6836718, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7248553, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7202253, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7151432, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7155265, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7034448, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6757837, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6826539, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 6935301, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6974102, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7222014, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6855742, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7218188, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7279153, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6893349, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6968342, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7275588, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7243341, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7259901, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7188560, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Low"}
+{"id": 6821220, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7191871, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7284940, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7059007, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7229808, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6769756, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7041922, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7131218, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7260060, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7163866, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7226332, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7262454, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7145232, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7276725, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7260263, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7252912, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6797313, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7274446, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7216476, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7010274, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 6778863, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6768139, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7182446, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7106229, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6888786, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Low", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7285089, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7247405, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Low", "patient_baseline": "Low"}
+{"id": 7014387, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Low", "patient_4o": "Low", "patient_baseline": "Low"}
+{"id": 6979191, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Low", "patient_4o": "Low", "patient_baseline": "Low"}
+{"id": 7085732, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7227000, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7250141, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7242166, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6734550, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7003353, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7122121, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6781626, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6972182, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7230155, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7139976, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6836718, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7248553, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7202253, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7151432, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Moderate", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7155265, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7034448, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Low", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6757837, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Moderate", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 6826539, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Low"}
+{"id": 6935301, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Low"}
+{"id": 6974102, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7222014, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6855742, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7218188, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7279153, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6893349, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Low", "patient_baseline": "Extremely High"}
+{"id": 6968342, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7275588, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7243341, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Moderate"}
+{"id": 7196864, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 6902892, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6833305, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Low", "patient_baseline": "Extremely High"}
+{"id": 6815690, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 6817495, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7197906, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7256146, "pipeline_4o": 0, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6769731, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7215345, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7213772, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Moderate", "patient_baseline": "Extremely High"}
+{"id": 7090822, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 6851325, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7045524, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "Moderate"}
+{"id": 7267509, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7128836, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7174028, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7277356, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7251636, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "High", "patient_4o": "Moderate", "patient_baseline": "High"}
+{"id": 7239635, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7225046, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "High", "patient_4o": "High", "patient_baseline": "High"}
+{"id": 7230155, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7139976, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 6836718, "pipeline_4o": 1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "High", "patient_baseline": "Extremely High"}
+{"id": 7248553, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7202253, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7151432, "pipeline_4o": -1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "High"}
+{"id": 7155265, "pipeline_4o": 1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7034448, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6757837, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6826539, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6935301, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6974102, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7222014, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6855742, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7218188, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7279153, "pipeline_4o": 1, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6893349, "pipeline_4o": -1, "pipeline_baseline": -1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 6968342, "pipeline_4o": -1, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7275588, "pipeline_4o": 0, "pipeline_baseline": 0, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
+{"id": 7243341, "pipeline_4o": 0, "pipeline_baseline": 1, "patient_pipeline": "Extremely High", "patient_4o": "Extremely High", "patient_baseline": "Extremely High"}
