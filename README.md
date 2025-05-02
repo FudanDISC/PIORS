@@ -1,10 +1,10 @@
 <div align="center">
-<h1>PIORS</h1>
+<h1>SFMSS & PIORS</h1>
 
 [Demo](https://piors.fudan-disc.com) | [Paper](https://arxiv.org/abs/2411.13902)
 
 </div>
-
+Implementation of NAACL 2025 paper "SFMSS: Service Flow aware Medical Scenario Simulation for Conversational Data Generation".
 The repo of the Personalized Intelligent Outpatient Reception System (PIORS) and the Service Flow aware Medical Scenario Simulation (SFMSS)
 
 ## Overview
