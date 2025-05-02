@@ -5,6 +5,7 @@
 
 </div>
 Implementation of NAACL 2025 paper "SFMSS: Service Flow aware Medical Scenario Simulation for Conversational Data Generation".
+
 The repo of the Personalized Intelligent Outpatient Reception System (PIORS) and the Service Flow aware Medical Scenario Simulation (SFMSS)
 
 ## Overview
