@@ -1,7 +1,7 @@
 <div align="center">
 <h1>SFMSS & PIORS</h1>
 
-[Demo](https://piors.fudan-disc.com) | [Paper(SFMSS)](https://aclanthology.org/2025.findings-naacl.259/) | [Paper(PIORS)](https://arxiv.org/abs/2411.13902)
+[Demo](http://124.221.230.204:8501) | [Paper(SFMSS)](https://aclanthology.org/2025.findings-naacl.259/) | [Paper(PIORS)](https://arxiv.org/abs/2411.13902)
 
 </div>
 
